@@ -35,3 +35,7 @@ Também é possível fazer a conversão das seguintes temperaturas:
 * Celsius para Kelvin;
 * Kelvin para Celsius.
 
+## Badge recebida após a conclusão do projeto:
+
+![badge](https://github.com/edu-ardasantana/conversor-de-moedas/assets/97988614/e5c3cfee-be79-454d-8898-cad2030db0f5)
+
